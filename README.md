@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on those projects you would like not to go sleep.
 - 📫 You can send me an email to silvano.quarto@gmail.com or connect to my LinkedIn profile https://www.linkedin.com/in/silvanoquarto/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Sometimes people ask me "How old are you?", I just answer I'm addicted to analogical camera and vintage clothes.
+- ⚡ Fun fact: Sometimes people ask me "How old are you?", I just answer "I'm addicted to analogical camera and vintage clothes".
 
 <!---
 Silvano315/Silvano315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
