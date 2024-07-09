@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
-<h3 align="center">A data scientist from Italy with passions in medical physics, climate change topics and chess</h3>
+<h3 align="center">A data scientist from Italy with passions in medical physics, climate change topics and XAI</h3>
 
 - 🔭 I’m currently working on [churn prediction and XAI](https://github.com/Silvano315/Churn-Prediction-with-SHAP)
 
