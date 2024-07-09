@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **those projects you would like not to go sleep.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/silvanoquarto/](https://www.linkedin.com/in/silvanoquarto/)
+- 👨‍💻 All of my info are available at [https://www.linkedin.com/in/silvanoquarto/](https://www.linkedin.com/in/silvanoquarto/)
 
 - 📫 How to reach me **silvano.quarto@gmail.com**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/silvano quarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvano quarto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/silvanoquarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvano quarto" height="30" width="40" /></a>
 <a href="https://kaggle.com/silvanoquarto31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="silvanoquarto31" height="30" width="40" /></a>
-<a href="https://fb.com/silvano quarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silvano quarto" height="30" width="40" /></a>
+<a href="https://fb.com/silvano.quarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silvano quarto" height="30" width="40" /></a>
 <a href="https://instagram.com/silvano_quarto4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silvano_quarto4" height="30" width="40" /></a>
 </p>
 
