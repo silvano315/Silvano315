@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **those projects you would like not to go sleep.**
 
-- 👨‍💻 All of my info are available at [https://www.linkedin.com/in/silvanoquarto/](https://www.linkedin.com/in/silvanoquarto/)
+- 👨‍💻 All of my info are available at [my Linkedin home](https://www.linkedin.com/in/silvanoquarto/)
 
 - 📫 How to reach me **silvano.quarto@gmail.com**
 
