@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
 <h3 align="center">A data scientist from Italy with passions in medical physics, climate change topics and XAI</h3>
 
-- 🔭 I’m currently working on [an ETL project using API](https://github.com/Silvano315/ETL-project-using-API) and [experiments on Prompt Eng & LLM](https://github.com/Silvano315/Experiments-Archive-for-Prompt-Eng-LLM))
+- 🔭 I’m currently working on [an ETL project using API](https://github.com/Silvano315/ETL-project-using-API) and [experiments on Prompt Eng & LLM](https://github.com/Silvano315/Experiments-Archive-for-Prompt-Eng-LLM)
 
 - 🌱 I’m currently learning **deep learning techniques applied to brain diseases and the integration of eXplainable Artificial Intelligence.**
 
