@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
 <h3 align="center">A data scientist from Italy with passions in medical physics, climate change topics and XAI</h3>
 
-- 🔭 I’m currently working on [animal recognition model for self-driving cars](https://github.com/Silvano315/Animal-Recognition-for-Self-Driving-Cars)
+- 🔭 I’m currently working on [animal recognition model for self-driving cars](https://github.com/Silvano315/Animal-Recognition-for-Self-Driving-Cars) and [voice translator gui application](https://github.com/Silvano315/Voice-applications-and-emotion-recognition)
 
 - 🌱 I’m currently learning **deep learning techniques applied to brain diseases and the integration of eXplainable Artificial Intelligence.**
 
@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvano315&show_icons=true&locale=en" alt="silvano315" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvano315&" alt="silvano315" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=silvano315&" alt="silvano315" /></a>
