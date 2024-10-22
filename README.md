@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
 <h3 align="center">A data scientist from Italy with passions in medical physics, climate change topics and XAI</h3>
 
-- 🔭 I’m currently working on [food image classification system with PyTorch CNN](https://github.com/Silvano315/PyTorch-CNN-for-food-image-classification-system) and [voice translator gui application](https://github.com/Silvano315/Voice-applications-and-emotion-recognition)
+- 🔭 I’m currently working on [flower recognition and detection with PyTorch](https://github.com/Silvano315/Flower-Recognition-and-Detection-with-PyTorch) and [voice translator gui application](https://github.com/Silvano315/Voice-applications-and-emotion-recognition)
 
 - 🌱 I’m currently learning **deep learning techniques applied to brain diseases and the integration of eXplainable Artificial Intelligence.**
 
