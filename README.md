@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [flower recognition and detection with PyTorch](https://github.com/Silvano315/Flower-Recognition-and-Detection-with-PyTorch) and [voice translator gui application](https://github.com/Silvano315/Voice-applications-and-emotion-recognition)
 
-- 🌱 I’m currently learning **deep learning techniques applied to brain diseases and the integration of eXplainable Artificial Intelligence.**
+- 🌱 I’m currently learning **PyTorch and Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **those projects you would like not to go sleep.**
 
