@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **silvano.quarto@gmail.com**
 
-- ⚡ Fun fact **Sometimes people ask me "How old are you?", I just answer "I'm addicted to analogical camera and vintage clothes".**
+- ⚡ Best quote: **Physics is not what you're working on but HOW you're working on it.** by John Hopfield, physics Nobel-winner.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
