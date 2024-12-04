@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
 <h3 align="center">A data scientist from Italy with passions in medical physics, explainability and computer vision</h3>
 
-- 🔭 I’m currently working on [malware classification with PyTorch](https://github.com/Silvano315/Malware-classification-model) and [reinforcement learning for a Healthcare CyberSecurity solution](https://github.com/Silvano315/Healthcare-Cyber-Security-with-SARSA-DDQN)
-
-- 🌱 I’m currently learning **PyTorch and Reinforcement Learning**
+- 🔭 I’m currently working on [malware classification with PyTorch](https://github.com/Silvano315/Malware-classification-model)
+- 🌱 I’m currently learning **PyTorch and Generative AI**
 
 - 👯 I’m looking to collaborate on **those projects you would like not to go sleep.**
 
