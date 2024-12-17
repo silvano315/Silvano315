@@ -2,6 +2,9 @@
 <h3 align="center">A data scientist from Italy with passions in medical physics, explainability and computer vision</h3>
 
 - 🔭 I’m currently working on [malware classification with PyTorch](https://github.com/Silvano315/Malware-classification-model)
+
+- 🚀 In the following months, I'll update a repository about [medical physics](https://github.com/Silvano315/Med-Physics) in order to report my job researches and activities; moreover, it has the goal to test and evaluate tools, models, and anything that could be applied to medical physics.
+
 - 🌱 I’m currently learning **PyTorch and Generative AI**
 
 - 👯 I’m looking to collaborate on **those projects you would like not to go sleep.**
