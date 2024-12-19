@@ -5,7 +5,7 @@
 
 - 🚀 In the following months, I'll update a repository about [medical physics](https://github.com/Silvano315/Med-Physics) in order to report my job researches and activities; moreover, it has the goal to test and evaluate tools, models, and anything that could be applied to medical physics.
 
-- 🌱 I’m currently learning **PyTorch and Generative AI**
+- 🌱 I’m currently learning **Generative AI and HuggingFace**. I'm taking some courses such as: [Profession AI](https://profession.ai) master lessons and [HuggingFace youtube course](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o&index=1)
 
 - 👯 I’m looking to collaborate on **those projects you would like not to go sleep.**
 
