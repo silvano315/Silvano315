@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
 <h3 align="center">A data scientist from Italy with passions in medical physics, explainability and computer vision</h3>
 
-- 🔭 I’m currently working on [malware classification with PyTorch](https://github.com/Silvano315/Malware-classification-model)
+- 🔭 I’m currently working on [malware classification with PyTorch](https://github.com/Silvano315/Malware-classification-model) and [Generative AI for Data Augmentation](https://github.com/Silvano315/Gen-AI-for-Data-Augmentation)
 
 - 🚀 In the following months, I'll update a repository about [medical physics](https://github.com/Silvano315/Med-Physics) in order to report my job researches and activities; moreover, it has the goal to test and evaluate tools, models, and anything that could be applied to medical physics.
 
