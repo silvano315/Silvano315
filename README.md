@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Silvano</h1>
 <h3 align="center">A data scientist from Italy with passions in medical physics, explainability and computer vision</h3>
 
-- 🔭 I’m currently working on [XAI system for signature detection](https://github.com/silvano315/eXplainability-for-signature-detection) and I would like to refactor [Chess RAG project](https://www.kaggle.com/code/silvanoquarto31/chess-rag-system) I realized for Google Competition.
+- 💻 I started a new job thi month as data scientist (maybe I will create a repo to share my progress and stuff I'm learning), but this is the reason why I'm using GitHub very slowly 😂 anyway I'll be back
+
+- 🔭 My last interesting projects: [XAI system for signature detection](https://github.com/silvano315/eXplainability-for-signature-detection) and [Chess RAG project](https://www.kaggle.com/code/silvanoquarto31/chess-rag-system) I realized for Google Competition.
 
 - 🚀 In the following months, I'll update a repository about [medical physics](https://github.com/Silvano315/Med-Physics) in order to report my job researches and activities; moreover, it has the goal to test and evaluate tools, models, and anything that could be applied to medical physics.
 
